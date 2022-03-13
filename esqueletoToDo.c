@@ -17,7 +17,7 @@
 //Struct que representa a data.
 typedef struct {
 	int day;
-	int month,
+	int month;
 } Date;
 
 // Estrutura que contém os campos dos registros das tarefas
